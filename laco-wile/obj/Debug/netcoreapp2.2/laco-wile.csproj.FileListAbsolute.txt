@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\c#\laco-wile\bin\Debug\netcoreapp2.2\laco-wile.deps.json
+C:\Users\fic\Desktop\c#\laco-wile\bin\Debug\netcoreapp2.2\laco-wile.runtimeconfig.json
+C:\Users\fic\Desktop\c#\laco-wile\bin\Debug\netcoreapp2.2\laco-wile.runtimeconfig.dev.json
+C:\Users\fic\Desktop\c#\laco-wile\bin\Debug\netcoreapp2.2\laco-wile.dll
+C:\Users\fic\Desktop\c#\laco-wile\bin\Debug\netcoreapp2.2\laco-wile.pdb
+C:\Users\fic\Desktop\c#\laco-wile\obj\Debug\netcoreapp2.2\laco-wile.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\c#\laco-wile\obj\Debug\netcoreapp2.2\laco-wile.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\c#\laco-wile\obj\Debug\netcoreapp2.2\laco-wile.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\c#\laco-wile\obj\Debug\netcoreapp2.2\laco-wile.AssemblyInfo.cs
+C:\Users\fic\Desktop\c#\laco-wile\obj\Debug\netcoreapp2.2\laco-wile.dll
+C:\Users\fic\Desktop\c#\laco-wile\obj\Debug\netcoreapp2.2\laco-wile.pdb

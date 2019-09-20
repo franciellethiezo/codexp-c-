@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\c#\estrutura-de-decisao\bin\Debug\netcoreapp2.2\estrutura-de-decisao.deps.json
+C:\Users\fic\Desktop\c#\estrutura-de-decisao\bin\Debug\netcoreapp2.2\estrutura-de-decisao.runtimeconfig.json
+C:\Users\fic\Desktop\c#\estrutura-de-decisao\bin\Debug\netcoreapp2.2\estrutura-de-decisao.runtimeconfig.dev.json
+C:\Users\fic\Desktop\c#\estrutura-de-decisao\bin\Debug\netcoreapp2.2\estrutura-de-decisao.dll
+C:\Users\fic\Desktop\c#\estrutura-de-decisao\bin\Debug\netcoreapp2.2\estrutura-de-decisao.pdb
+C:\Users\fic\Desktop\c#\estrutura-de-decisao\obj\Debug\netcoreapp2.2\estrutura-de-decisao.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\c#\estrutura-de-decisao\obj\Debug\netcoreapp2.2\estrutura-de-decisao.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\c#\estrutura-de-decisao\obj\Debug\netcoreapp2.2\estrutura-de-decisao.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\c#\estrutura-de-decisao\obj\Debug\netcoreapp2.2\estrutura-de-decisao.AssemblyInfo.cs
+C:\Users\fic\Desktop\c#\estrutura-de-decisao\obj\Debug\netcoreapp2.2\estrutura-de-decisao.dll
+C:\Users\fic\Desktop\c#\estrutura-de-decisao\obj\Debug\netcoreapp2.2\estrutura-de-decisao.pdb
